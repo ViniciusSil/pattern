@@ -1,4 +1,4 @@
-# pattern
+# Pattern
 Desenvolvimento sistema de venda loja utilizando alguns design pattern
 
 # TecLoja
